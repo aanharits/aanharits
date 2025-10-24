@@ -18,5 +18,5 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,vercel,supabase,react,nextjs,nodejs,express,prisma,postgres,mysql,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,vercel,supabase,react,nextjs,nodejs,express,nestjs,prisma,postgres,mysql,linux,postman)](https://skillicons.dev)
 
