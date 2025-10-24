@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I’m a passionate Fullstack Developer who loves learning new tech, exploring clean UI design, and creating solid backend systems.</p>
+<p align="left">💡 I’m a passionate Fullstack Developer who loves learning new tech, exploring clean UI design, and creating solid backend systems. I enjoy learning and experimenting with new technologies — whether it’s building APIs, integrating authentication, or optimizing UI/UX for better performance.</p>
 
 ###
 
