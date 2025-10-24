@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋 Im Farhan Harits Prakoso</h1>
+<h1 align="left">Hi 👋 Im Farhan (Aan)</h1>
 
 ###
 
@@ -10,8 +10,7 @@
 
 ###
 
-<p align="left">💡 II’m a Fullstack Developer with a big passion for building end-to-end web applications.
-I love turning ideas into real projects — from designing clean, responsive frontends to developing powerful and efficient backends.</p>
+<p align="left">💡 A Student with passionate about Fullstack Developer for building end-to-end web applications. and I enjoy learning and experimenting with new technologies — whether it’s building APIs, integrating authentication, or optimizing UI/UX for better performance.</p>
 
 ###
 
@@ -44,3 +43,5 @@ I love turning ideas into real projects — from designing clean, responsive fro
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
 </div>
+
+<img src="https://raw.githubusercontent.com/aanharits/aanharits/output/snake.svg" alt="Snake animation" />
