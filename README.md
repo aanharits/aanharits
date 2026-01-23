@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋 Im Farhan (Aan)</h1>
+<h1 align="left">Hi! Im Farhan (Aan)</h1>
 
 ###
 
