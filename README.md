@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Computer Science Student</p>
+<!-- <p align="left">Computer Science Student</p> -->
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💡 A Student with passionate about Fullstack Developer for building end-to-end web applications. and I enjoy learning and experimenting with new technologies — whether it’s building APIs, integrating authentication, or optimizing UI/UX for better performance.</p>
+<p align="left"> A Student with passionate about Fullstack Developer for building end-to-end web applications. and I enjoy learning and experimenting with new technologies — whether it’s building APIs, integrating authentication, or optimizing UI/UX for better performance.</p>
 
 ###
 
