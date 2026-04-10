@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://pin.it/14P7AQItw" width="200" alt="My Avatar" />
+  <img src="![Staf&#39;s Narcotic (Discord image)](https://github.com/user-attachments/assets/91170065-8e62-442f-a2a3-409c0824502a)
+" width="200" alt="My Avatar" />
 </p>
 
 <h3 align="center">Hi! Im Farhan (Aan) 👋</h3>
