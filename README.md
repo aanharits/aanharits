@@ -1,4 +1,4 @@
-<h1 align="left">Hi! I'm Farhan (Aan)</h1>
+<!-- <h1 align="left">Hi! I'm Farhan (Aan)</h1>
 
 ###
 
@@ -23,4 +23,4 @@
     <img src="https://skillicons.dev/icons?i=js,ts,tailwind,supabase,astro,react,nextjs,nodejs,express,prisma,postgres,mysql,linux,postman" />
   </a>
 </p>
-
+ -->
