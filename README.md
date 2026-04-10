@@ -1,8 +1,20 @@
+<p align="center">
+  <img src="https://pin.it/14P7AQItw" width="200" alt="My Avatar" />
+</p>
+
+<h3 align="center">Hi! Im Farhan (Aan) 👋</h3>
+
+<p align="center">
+  <a href="https://farchives.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
 <!-- <h1 align="left">Hi! I'm Farhan (Aan)</h1>
 
 ###
 
-<!-- <p align="left">Computer Science Student</p> -->
+<p align="left">Computer Science Student</p> 
 
 ###
 
