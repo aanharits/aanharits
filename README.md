@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/91170065-8e62-442f-a2a3-409c0824502a" width="200" alt="My Avatar" />
 </p> -->
 
-<h1 align="center">Hi! Im Farhan (Aan) 👋</h3>
+<h1 align="center">Hi! Im Farhan (Aan)</h3>
 
 <p align="left"> A Student with passionate about Fullstack Developer for building end-to-end web applications. and I enjoy learning and experimenting with new technologies — whether it’s building APIs, integrating authentication, or optimizing UI/UX for better performance.</p>
 
